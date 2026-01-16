@@ -20,8 +20,10 @@ It demonstrates the use of data processing and machine learning concepts in a si
    ```bash
    git clone https://github.com/prajwalpujari/Species-Recognition-.git
 2. Install required libraries:
+3. ```bash
    pip install -r requirements.txt
-3. Run the project:
+4. Run the project:
+5. ```bash
    python main.py
 License
 This project is created for educational purposes.
